@@ -1,0 +1,4 @@
+2026-04-21 22:59:55,685 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 22:59:55,686 - ERROR - Unexpected Error: API Secret required for private endpoints
+2026-04-21 23:01:37,992 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:01:38,551 - INFO - Order response: {}
